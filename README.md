@@ -1,4 +1,6 @@
-В файле script.sql содержится набор sql комманд для базы данных PostgreSQL.
+В файле script_pgsql.sql содержится набор sql комманд для базы данных PostgreSQL.
+
+В файле script_mysql.sql содержится набор sql комманд для базы данных MySQL.
 
 Сначала создается три таблицы country, region, city.
 
